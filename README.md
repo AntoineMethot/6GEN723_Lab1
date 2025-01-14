@@ -108,6 +108,15 @@ Quand une autre équipe se connecte à notre serveur ceci sont les requetes et r
 # 2 - DNS
 
 PAQUETS:
+
 ![image](https://github.com/user-attachments/assets/742c9f89-e147-466d-9f7b-67a517fc8335)
+
+REQUETE:
+
+![image](https://github.com/user-attachments/assets/1de491fb-e63b-408d-a5d7-8071d01d76ee)
+
+RÉPONSE:
+![image](https://github.com/user-attachments/assets/b36d342f-35bb-4e16-869a-4330cf417d06)
+
 
 
